@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "leetcode_no114_二叉树展开为链表_w2", "leetcode_no114_二叉树展开为链表_w2.vcxproj", "{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Debug|x64.ActiveCfg = Debug|x64
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Debug|x64.Build.0 = Debug|x64
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Debug|x86.ActiveCfg = Debug|Win32
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Debug|x86.Build.0 = Debug|Win32
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Release|x64.ActiveCfg = Release|x64
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Release|x64.Build.0 = Release|x64
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Release|x86.ActiveCfg = Release|Win32
+		{23DE6973-D2C4-4EF8-8FD7-ADE45BD49190}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DCDA605-655C-4C04-BE03-CC3150839213}
+	EndGlobalSection
+EndGlobal
